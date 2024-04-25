@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m Stan Gerrits vd Ende
+- 🏢 I work at Marel where I help build and support Poultry software
+- 🦜 I’m on Twitter https://twitter.com/sgerritsvdende
+- 😄 Pronouns: he/him/his
+- 
 <!--
 **slbgerritsvdende/slbgerritsvdende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
